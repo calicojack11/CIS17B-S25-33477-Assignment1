@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shadow\\source\\repos\\CIS17B_Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{704B4365-1908-4F8E-8F4B-0B03A1037D22}|CIS17B_Assignment1\\CIS17B_Assignment1.vcxproj|C:\\Users\\Shadow\\source\\repos\\CIS17B_Assignment1\\CIS17B_Assignment1\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{704B4365-1908-4F8E-8F4B-0B03A1037D22}|CIS17B_Assignment1\\CIS17B_Assignment1.vcxproj|solutionrelative:CIS17B_Assignment1\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cpp",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\CIS17B_Assignment1\\CIS17B_Assignment1\\BankAccount.cpp",
+              "RelativeDocumentMoniker": "CIS17B_Assignment1\\BankAccount.cpp",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\CIS17B_Assignment1\\CIS17B_Assignment1\\BankAccount.cpp",
+              "RelativeToolTip": "CIS17B_Assignment1\\BankAccount.cpp",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T18:15:32.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
